@@ -1,0 +1,18 @@
+<svg width="900" height="100" viewBox="0 0 900 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%"   stop-color="#7ab8f0"/>
+      <stop offset="55%"  stop-color="#2d7dd2"/>
+      <stop offset="100%" stop-color="#1a4a8f"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="100" fill="url(#footGrad)"/>
+  <ellipse cx="80"  cy="30"  rx="180" ry="70" fill="#ffffff" opacity="0.06"/>
+  <ellipse cx="820" cy="80"  rx="120" ry="55" fill="#ffffff" opacity="0.04"/>
+  <path d="M0,12 C80,32 180,6 300,20 C420,34 520,8 640,20 C760,32 850,10 900,18 L900,0 L0,0 Z"
+        fill="#ffffff" opacity="0.10"/>
+  <path d="M0,24 C100,40 220,14 380,28 C540,42 680,16 820,28 C870,33 895,24 900,28 L900,0 L0,0 Z"
+        fill="#ffffff" opacity="0.18"/>
+  <path d="M0,35 C150,48 320,26 500,38 C680,50 800,30 900,40 L900,0 L0,0 Z"
+        fill="#ffffff" opacity="0.30"/>
+</svg>
